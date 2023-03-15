@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ReactJS-Flipkart-/static/css/main.0c84ef49.css",
-    "main.js": "/ReactJS-Flipkart-/static/js/main.76583ed4.js",
+    "main.js": "/ReactJS-Flipkart-/static/js/main.a7fc00a4.js",
     "static/media/revicons.eot": "/ReactJS-Flipkart-/static/media/revicons.a77de540a38981833f9e.eot",
     "static/media/revicons.ttf": "/ReactJS-Flipkart-/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/revicons.woff": "/ReactJS-Flipkart-/static/media/revicons.e8746a624ed098489406.woff",
@@ -13,10 +13,10 @@
     "static/media/printer.webp": "/ReactJS-Flipkart-/static/media/printer.70e3cb8e13daf536e05a.webp",
     "index.html": "/ReactJS-Flipkart-/index.html",
     "main.0c84ef49.css.map": "/ReactJS-Flipkart-/static/css/main.0c84ef49.css.map",
-    "main.76583ed4.js.map": "/ReactJS-Flipkart-/static/js/main.76583ed4.js.map"
+    "main.a7fc00a4.js.map": "/ReactJS-Flipkart-/static/js/main.a7fc00a4.js.map"
   },
   "entrypoints": [
     "static/css/main.0c84ef49.css",
-    "static/js/main.76583ed4.js"
+    "static/js/main.a7fc00a4.js"
   ]
 }
