@@ -1,0 +1,33 @@
+.Groc{
+   background-color: brown;
+   width: 80vw;
+   height: 80vh;
+   margin: auto;
+   margin-top: 20vh;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   flex-direction: column;
+   color: white;
+}
+.clickme{
+   width: 10rem;
+   height: 5rem;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   margin-top: 10px;
+   border:2px
+   solid aqua;
+   background-color: brown;
+   color: white;
+   font-size: larger;
+   font-weight: bolder;
+}
+.mode{
+   text-decoration: none;
+   margin-left: 20px;
+   list-style: none;
+
+   
+}

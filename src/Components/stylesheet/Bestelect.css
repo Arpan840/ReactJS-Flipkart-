@@ -1,0 +1,65 @@
+
+  .ebox1,.ebox2{
+      width: 20vw;
+     margin-left: 15px;
+     height: 50vh;
+     display: flex;
+    align-items: center;
+    justify-content: center;
+    color: black;
+    flex-direction: column;
+    background-image: url(https://rukminim1.flixcart.com/fk-p-flap/278/278/image/7593e7b6640822c1.jpg?q=90);
+    background-repeat: no-repeat;
+    background-position: bottom;
+  }
+  .p1,.p2,.p3{
+      padding-top: 8px;
+      font-size: 1rem;
+  }
+  .p2{
+      color: red;
+  }
+  .p3{
+      color: blueviolet;
+  }
+  .bbox{
+    margin-top: 8px;
+    border-top: 1px solid aqua;
+    border-bottom: 1px solid aqua;
+    box-shadow: 5px 5px aqua;
+  }
+ 
+  .carbox{
+    
+    height: 50vh;
+    width: 20vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin: none;
+  }
+  .react-multi-carousel-item {
+    margin-right: 10px;
+    height: 50vh;
+  }
+  .react-multi-carousel-item img {
+    height: 150px;
+    width: 170px;
+  }
+  .viewbtn{
+    background-color: #2874f0;
+    color: white;
+    height: 40px;
+    width: 100px;
+    border: none;
+    margin-top: 20px;
+  }
+  .ebox2{
+    background-image: url("https://rukminim1.flixcart.com/fk-p-flap/278/278/image/b84f1c22cce1a6a3.jpg?q=90");
+    background-position: bottom;
+    background-repeat: no-repeat;
+  }
+  h2{
+    text-align: center;
+  }
