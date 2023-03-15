@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ReactJS-Flipkart/static/css/main.b2da0148.css",
+    "main.js": "/ReactJS-Flipkart/static/js/main.550c1acb.js",
+    "static/media/revicons.eot": "/ReactJS-Flipkart/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/ReactJS-Flipkart/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/ReactJS-Flipkart/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/moniter.webp": "/ReactJS-Flipkart/static/media/moniter.c7af46363cd2c9555e0b.webp",
+    "static/media/tv.webp": "/ReactJS-Flipkart/static/media/tv.54112dff0cb28d3c686c.webp",
+    "static/media/powerbank.webp": "/ReactJS-Flipkart/static/media/powerbank.d21a686e7505ad4ef336.webp",
+    "static/media/projector.webp": "/ReactJS-Flipkart/static/media/projector.585e0e0f96e9a40ffcf2.webp",
+    "static/media/toys.webp": "/ReactJS-Flipkart/static/media/toys.9e995fad925d39d8d911.webp",
+    "static/media/printer.webp": "/ReactJS-Flipkart/static/media/printer.70e3cb8e13daf536e05a.webp",
+    "index.html": "/ReactJS-Flipkart/index.html",
+    "main.b2da0148.css.map": "/ReactJS-Flipkart/static/css/main.b2da0148.css.map",
+    "main.550c1acb.js.map": "/ReactJS-Flipkart/static/js/main.550c1acb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2da0148.css",
+    "static/js/main.550c1acb.js"
+  ]
+}
