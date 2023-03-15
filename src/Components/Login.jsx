@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import "./stylesheet/Login.css"
 
-const Login = ({textcolor}) => {
+const Login = () => {
     
     
     let [onc,setonc]=useState("")
@@ -28,7 +28,7 @@ const Login = ({textcolor}) => {
     <><div className='Login' >
         <h1>Login</h1>
         <p>Get Access to your order by login</p>
-       </div><div className="form" style={{color:{textcolor}}}>
+       </div><div className="form" >
         
       <h3>  Enter Email Id/Mobile Number {namee} </h3>
      

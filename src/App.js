@@ -11,7 +11,7 @@ import Mobile from "./Components/Mobile";
 import Login from "./Components/Login";
 
 function App() {
-  let [textcolor,settextcolor]=useState('white')
+  let [textcolor,settextcolor]=useState('black')
   let [bg,setbg]=useState('white')
   let [mode,setMode]=useState(FaMoon)
  let changebg=()=>{
